@@ -1,6 +1,6 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/1efb2f24-92bb-4977-bd5b-590798fb837d" />## RAG Chat System
+# RAG Chat System
 
-### RAG Chat System is a professional-grade, document-focused Retrieval-Augmented Generation (RAG) chat system. It allows users to upload multiple document types, interact via a chat interface, and perform deep research queries using state-of-the-art LLMs. The system supports contextual responses, vector-based retrieval, and an intuitive Streamlit UI for effortless document Q&A.
+RAG Chat System is a professional-grade, document-focused Retrieval-Augmented Generation (RAG) chat system. It allows users to upload multiple document types, interact via a chat interface, and perform deep research queries using state-of-the-art LLMs. The system supports contextual responses, vector-based retrieval, and an intuitive Streamlit UI for effortless document Q&A.
 
 The project demonstrates:
 - Multi-format document ingestion (PDF, PPTX, DOCX, TXT, CSV, XLSX)
@@ -19,7 +19,7 @@ The project demonstrates:
 
 ---
 
-```
+
  ✨ Features
 
  Document Processing
@@ -45,9 +45,7 @@ The project demonstrates:
 - Vector DB  (Chroma)
 
 ---
-```
 
-```
  🧠 Architecture Overview
 
 The system is designed as a modular pipeline, from document ingestion to answer generation. Each component is decoupled to allow flexibility, scalability, and easy extension.
@@ -59,15 +57,13 @@ The system is designed as a modular pipeline, from document ingestion to answer 
 ![Architecture Diagram 2](assets/Architecture2.png)
 
 ---
-```
 
-```
 ⚙️ Technology Stack
 
 ![Tech Stack](assets/techstack.png)
 
 ---
-```
+
 
 ```
  📁 Project Structure
@@ -96,7 +92,6 @@ rag-chat-system/
     ├── streamlitui2.png
     └── techstack.png
 
----
 ```
 
 ```
