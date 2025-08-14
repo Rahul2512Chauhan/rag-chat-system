@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+langchain
+chromadb
+sentence-transformers
+pypdf
+python-pptx
+python-docx
+pandas
+openpyxl
+requests
+langchain 
+langchain-community 
+openpyxl 
+PyMuPDF
+python-dotenv
+langchain-groq
