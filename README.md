@@ -1,6 +1,6 @@
-# RAG Chat System
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/1efb2f24-92bb-4977-bd5b-590798fb837d" />## RAG Chat System
 
-RAG Chat System is a professional-grade, document-focused Retrieval-Augmented Generation (RAG) chat system. It allows users to upload multiple document types, interact via a chat interface, and perform deep research queries using state-of-the-art LLMs. The system supports contextual responses, vector-based retrieval, and an intuitive Streamlit UI for effortless document Q&A.
+### RAG Chat System is a professional-grade, document-focused Retrieval-Augmented Generation (RAG) chat system. It allows users to upload multiple document types, interact via a chat interface, and perform deep research queries using state-of-the-art LLMs. The system supports contextual responses, vector-based retrieval, and an intuitive Streamlit UI for effortless document Q&A.
 
 The project demonstrates:
 - Multi-format document ingestion (PDF, PPTX, DOCX, TXT, CSV, XLSX)
@@ -11,34 +11,34 @@ The project demonstrates:
 
 ---
 
-## 🚀 Demo
+ 🚀 Demo
 
-### 🖥️ Streamlit UI Screenshots
+ 🖥️ Streamlit UI Screenshots
 ![Streamlit UI](assets/streamlitui1.png)
 ![Streamlit UI](assets/streamlitui2.png)
 
 ---
 
 ```
-## ✨ Features
+ ✨ Features
 
-### Document Processing
+ Document Processing
 - Bulk document upload
 - Automatic text extraction and chunking
 - Support for PDF, PPTX, DOCX, TXT, CSV, XLSX
 - Vector embeddings generation and storage (Chroma)
 
-### Standard Chat
+ Standard Chat
 - Query uploaded documents in natural language
 - Contextual responses based on document content
 - Chat history management
 
-### Deep Research Mode
+ Deep Research Mode
 - Extended context search
 - Detailed answer generation
 - Retrieval from full document content
 
-### Additional Features
+ Additional Features
 - Clean Streamlit-based UI
 - Modular code structure
 - Easy integration with LLM (Groq API)
@@ -48,21 +48,21 @@ The project demonstrates:
 ```
 
 ```
-## 🧠 Architecture Overview
+ 🧠 Architecture Overview
 
 The system is designed as a modular pipeline, from document ingestion to answer generation. Each component is decoupled to allow flexibility, scalability, and easy extension.
 
-### Architecture Diagram 1
+ Architecture Diagram 1
 ![Architecture Diagram 1](assets/Architecture1.png)
 
-### Architecture Diagram 2
+ Architecture Diagram 2
 ![Architecture Diagram 2](assets/Architecture2.png)
 
 ---
 ```
 
 ```
-## ⚙️ Technology Stack
+⚙️ Technology Stack
 
 ![Tech Stack](assets/techstack.png)
 
@@ -70,7 +70,7 @@ The system is designed as a modular pipeline, from document ingestion to answer 
 ```
 
 ```
-## 📁 Project Structure
+ 📁 Project Structure
 
 rag-chat-system/
 │
@@ -100,9 +100,9 @@ rag-chat-system/
 ```
 
 ```
-## 🛠️ Setup & Installation
+🛠️ Setup & Installation
 
-### 🔧 Local Development
+ 🔧 Local Development
 
 1. Clone the repository:
 
